@@ -5,7 +5,6 @@ import sys
 from scipy.integrate import odeint
 from matplotlib.patches import Circle
 import matplotlib.animation as animation
-import cv2
 #from matplotlib.animation import FuncAnimation, writers
 
 
